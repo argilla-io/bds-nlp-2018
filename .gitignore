@@ -1,3 +1,4 @@
 venv
 .history
 .vscode
+notebooks/.ipynb_checkpoints
