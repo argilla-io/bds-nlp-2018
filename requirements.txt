@@ -3,3 +3,4 @@ spacy>=2.0,<2.1
 pandas
 jupyter
 fastai
+allennlp
